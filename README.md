@@ -1,6 +1,6 @@
-# Financial Decision Assistant - Qwen3-0.6B LoRA Fine-tuning (Live on http://18.217.220.60/)
+# Financial Decision Assistant - Qwen3-9B LoRA Fine-tuning (Live on http://18.217.220.60/)
 
-A financial expert system built by fine-tuning Qwen3-0.6B with LoRA on the [finance-alpaca](https://huggingface.co/datasets/gbharti/finance-alpaca) dataset, supporting 5 financial analysis scenarios.
+A financial expert system built by fine-tuning Qwen3-9B with LoRA on the [finance-alpaca](https://huggingface.co/datasets/gbharti/finance-alpaca) dataset, supporting 5 financial analysis scenarios.
 
 ## Scenarios
 
@@ -121,6 +121,6 @@ A: The portfolio is experiencing equity-driven losses partially offset by bonds.
 
 ## Acknowledgements
 
-- Base model: [Qwen3-0.6B](https://modelscope.cn/models/Qwen/Qwen3-0.6B) by Alibaba
+- Base model: [Qwen3-9B](https://modelscope.cn/models/Qwen/Qwen3-9B) by Alibaba
 - Dataset: [finance-alpaca](https://huggingface.co/datasets/gbharti/finance-alpaca) by gbharti
 - Original medical QA codebase from Week 10 course materials
